@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-berkeleyje" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-dist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-dist/titan-dist-hadoop-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-doc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hadoop-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-094" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-096" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-098" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-lucene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/titan-solr" charset="UTF-8" />
+  </component>
+</project>

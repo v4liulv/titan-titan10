@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="2400" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="titan-all" />
+        <module name="titan-berkeleyje" />
+        <module name="titan-cassandra" />
+        <module name="titan-core" />
+        <module name="titan-es" />
+        <module name="titan-hadoop-1" />
+        <module name="titan-hadoop-2" />
+        <module name="titan-hadoop-core" />
+        <module name="titan-hbase" />
+        <module name="titan-hbase-094" />
+        <module name="titan-hbase-096" />
+        <module name="titan-hbase-098" />
+        <module name="titan-hbase-10" />
+        <module name="titan-hbase-core" />
+        <module name="titan-lucene" />
+        <module name="titan-solr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="titan" target="1.5" />
+      <module name="titan-all" target="1.8" />
+      <module name="titan-berkeleyje" target="1.8" />
+      <module name="titan-cassandra" target="1.8" />
+      <module name="titan-core" target="1.8" />
+      <module name="titan-dist" target="1.8" />
+      <module name="titan-dist-hadoop-1" target="1.8" />
+      <module name="titan-doc" target="1.8" />
+      <module name="titan-es" target="1.8" />
+      <module name="titan-hadoop" target="1.5" />
+      <module name="titan-hadoop-1" target="1.8" />
+      <module name="titan-hadoop-2" target="1.8" />
+      <module name="titan-hadoop-core" target="1.8" />
+      <module name="titan-hadoop-parent" target="1.5" />
+      <module name="titan-hbase" target="1.8" />
+      <module name="titan-hbase-094" target="1.8" />
+      <module name="titan-hbase-096" target="1.8" />
+      <module name="titan-hbase-098" target="1.8" />
+      <module name="titan-hbase-10" target="1.8" />
+      <module name="titan-hbase-core" target="1.8" />
+      <module name="titan-hbase-parent" target="1.5" />
+      <module name="titan-lucene" target="1.8" />
+      <module name="titan-solr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

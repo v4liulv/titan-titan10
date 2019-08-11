@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/titan.iml" filepath="$PROJECT_DIR$/titan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-all/titan-all.iml" filepath="$PROJECT_DIR$/titan-all/titan-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-berkeleyje/titan-berkeleyje.iml" filepath="$PROJECT_DIR$/titan-berkeleyje/titan-berkeleyje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-cassandra/titan-cassandra.iml" filepath="$PROJECT_DIR$/titan-cassandra/titan-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-core/titan-core.iml" filepath="$PROJECT_DIR$/titan-core/titan-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-dist/titan-dist.iml" filepath="$PROJECT_DIR$/titan-dist/titan-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-dist/titan-dist-hadoop-1/titan-dist-hadoop-1.iml" filepath="$PROJECT_DIR$/titan-dist/titan-dist-hadoop-1/titan-dist-hadoop-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-doc/titan-doc.iml" filepath="$PROJECT_DIR$/titan-doc/titan-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-es/titan-es.iml" filepath="$PROJECT_DIR$/titan-es/titan-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop/titan-hadoop.iml" filepath="$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop/titan-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-1/titan-hadoop-1.iml" filepath="$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-1/titan-hadoop-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-2/titan-hadoop-2.iml" filepath="$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-2/titan-hadoop-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-core/titan-hadoop-core.iml" filepath="$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-core/titan-hadoop-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-parent.iml" filepath="$PROJECT_DIR$/titan-hadoop-parent/titan-hadoop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase/titan-hbase.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase/titan-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-094/titan-hbase-094.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-094/titan-hbase-094.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-096/titan-hbase-096.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-096/titan-hbase-096.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-098/titan-hbase-098.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-098/titan-hbase-098.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-10/titan-hbase-10.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-10/titan-hbase-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-core/titan-hbase-core.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-core/titan-hbase-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-hbase-parent/titan-hbase-parent.iml" filepath="$PROJECT_DIR$/titan-hbase-parent/titan-hbase-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-lucene/titan-lucene.iml" filepath="$PROJECT_DIR$/titan-lucene/titan-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titan-solr/titan-solr.iml" filepath="$PROJECT_DIR$/titan-solr/titan-solr.iml" />
+    </modules>
+  </component>
+</project>
